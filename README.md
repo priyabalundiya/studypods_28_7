@@ -1,148 +1,61 @@
 # studypods_28_7
-This my  first repository of web development project.
-This is my worksheet.
-S.no     Date       Name                Team no     File name     Today's task      Problem                   Solutions
-1        28-7-21    Priya Balundiya     SP0205      priya.html    To make a form    fail to add more css
+<body>
+    <table id="header" border="0" width="100" bgcolor="#292929">
+        <tr>
+            <td>
+                <table border="0" width="100" align="center">
+                    <tr>
+                        <td>
+                            <font face="arial" color="#FFFFFF">
+                             <div>
+                                 <p><b>Name : </b><i>Priya balundiya </i></p>
+                                 <p><b>Branch : </b><i>IT</i></p>
+                                 <p><b>Year : </b><i>1st</i></p>
+                                 <p><b>SP No. : </b><i>SP0201</i></p>
+                                 <p><b>Mentor Name : </b><i>Anurag Gupta</i></p>
+                             </div>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <div>
+    <table border="5">
+        <caption style="font-size: 30px;"><b>STUDYPOD2.0 DAILY REPORT</b> </caption>
+        <thead>
+            <tr>
+                <th width="350">S.No</th>
+                <th width="350">Date</th>
+                <th width="350">File Name</th>
+                <th width="350">Task</th>
+                <th width="350">Difficulty</th>
+                <th width="350">Solution</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>26/07/2021</td>
+                    <td>CSS used in Exam form</td>
+                    <td>CSS::external,internal,<br>inline stlye,comments</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>27/07/2021</td>
+                    <td>Styling</image></td>
+                    <td>Background image<br>box model(margin,padding,<br>border,box size)</td>
+                    <td>NO</td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
 
-<form>
-            <div class="div1" >
-                Name:<br>
-                <input type ="text" placeholder ="Enter your name" required>
                 
                 
-                <br>
-
-                Father's name:<br>
-                <input type ="text" placeholder ="Enter your  father' name" required>
-                <br>
-                phone no.:<br>
-                <input type ="text" placeholder ="Enter your phn.no  name" required>
-                <br>
-                email id:<br>
-                <input type ="text" placeholder ="Enter email id name" required>
-                <br>
-                Institute name:<br>
-                <input type ="text" placeholder ="Enter Institute namename" required>
-                <br>
-                
-               
-                    <select>
-                    
-                    <option value="topic" selected >Interested topic</option>  
-                    <option value="1">Html</option> 
-                    <option value="2">css</option> 
-                    <option value="3">Javascript</option> 
-                    <option value="4">python</option> 
-                    <option value="5">ruby</option>
-                    <option value="6">c</option>
-                </select>
-                
-                <br><br>
-                <textarea rows="20" columns="200" placeholder="Enter description"></textarea> </textarea>
-                <br>
-                <input type ="submit" value="Submit">
-               <br>
-               <div style=" text-decoration:underline ;
-               text-decoration-color: tomato;
-               text-transform: capitalize;
-               color:darkorange;
-               ">
-               <p >our courses</p>
-            </div>
-
-               <div>
-                  <p style="border:1px solid rebeccapurple ;
-                  width: 100px;
-                  background-color :seashell;
-                  margin:100px;
-                  padding: 20px;
-                  color:red;
-                  border-radius: 20px;
-                  box-shadow: 10px 20px 10px wheat;
-                  ">
-                      HTML
-                  </p>
-               </div>
-               <div>
-                <p style=" border:1px solid rebeccapurple ;
-                width: 100px;
-                background-color: seashell;
-                margin:100px;
-                padding: 20px;
-                color: red;
-                border-radius: 20px;
-                box-shadow: 10px 20px 10px wheat;
-                "
-                
-                
-            >
-                   css
-                </p>
-             </div>
-             <div>
-                <p style="border:1px solid rebeccapurple ;
-                width: 150px;
-                background-color: seashell;
-                margin:100px;
-                padding: 20px;
-                color: red;
-                border-radius: 20px;
-                box-shadow: 10px 20px 10px wheat;
-                ">
-                    JAVASCRIPT
-                </p>
-             </div>
-             <div>
-                <p style="border:1px solid rebeccapurple ;
-                width: 110px;
-                background-color: seashell;
-                margin:100px;
-                padding: 20px;
-                color: red;
-                border-radius: 20px;
-                box-shadow: 10px 20px 10px wheat;
-                
-                ">
-                    PYTHON
-                </p>
-             </div>
-             <div>
-                <p style="    border:1px solid rebeccapurple ;
-                width: 200px;
-                background-color: seashell;
-                margin:100px;
-                padding: 20px;
-                color: red;
-                border-radius: 20px;
-                box-shadow: 10px 20px 10px wheat;
-                
-                ">
-                    C LANGUAGE
-                    
-                </p>
-             </div>
-             <div>
-                <p style="border:1px solid rebeccapurple ;
-                width: 100px;
-                background-color: seashell;
-                margin:100px;
-                padding: 20px;
-                color: red;
-                border-radius: 20px; 
-                   box-shadow: 10px 20px 10px wheat;
-                
-                ">
-                    RUBY
-                </p>
-                <br>
-                For more information contact us on-63xxxxxx97
-                <p>contact us on  <a href="mailto:priya1balundiya.212@gmail.com">priya1balundiya/.212@gimal.com</a>
-                </p>
-             </div>
-              
-            </div>
-            
-        </form>
-        
 
         
