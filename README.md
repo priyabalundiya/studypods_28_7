@@ -32,19 +32,18 @@
                 <th width="350">Task</th>
                 <th width="350">Difficulty</th>
                 <th width="350">Solution</th>
-            </thead>
-            <tbody>
                 <tr>
+            </thead>
+               <tbody>
+                 <tr>
                     <td>1</td>
                     <td>28/07/2021</td>
                     <td>CSS used in Application form</td>
                     <td>CSS::internal,<br>inline stlye,comments</td>
                     <td>NO</td>
                     <td></td>
-                </tr>
-                
-                
-            </tbody>
+                 </tr>                        
+              </tbody>
         </table>
     </div>
 </body>
