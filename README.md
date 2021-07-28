@@ -37,12 +37,60 @@
                <tbody>
                  <tr>
                     <td>1</td>
-                    <td>28/07/2021</td>
-                    <td>CSS used in Application form</td>
-                    <td>CSS::internal,<br>inline stlye,comments</td>
-                    <td>NO</td>
+                    <td>21/07/2021</td>
+                    <td>priya.html</td>
+                    <td>Make use of general tags</td>
+                    <td>To change the font.</td>
+                    <td>use font decoration</td>
+                 </tr>
+                    <tr>
+                    <td>2</td>
+                    <td>22/07/2021</td>
+                    <td>priya.html</td>
+                    <td>use ancher of  tag</td>
+                    <td>To attach a photo</td>
+                    <td> Use image tag</td>
+                 </tr>            
+                    <tr>
+                    <td>3</td>
+                    <td>23/07/2021</td>
+                    <td>priya.html</td>
+                    <td>Make a registration form</td>
+                    <td> how to Style it</td>
+                    <td>Use css for styling</td>
+                 </tr>            
+                    <tr>
+                    <td>4</td>
+                    <td>24/07/2021</td>
+                    <td>priya.html form</td>
+                    <td>To style it</td>
+                    <td>how to proper styling</td>
+                    <td>use more css properties for styling</td>
+                 </tr>            
+                    <tr>
+                    <td>5</td>
+                    <td>25/07/2021</td>
+                    <td>priya.html</td>
+                    <td>Create much better it</td>
+                    <td>How to be useful it for all devices</td>
+                    <td>Use css opacity,filter property</td>
+                 </tr>            
+                    <tr>
+                    <td>6</td>
+                    <td>26/07/2021</td>
+                    <td>priya.html</td>
+                    <td>create required sections,fonts</td>
+                    <td>create more items of a institute</td>
+                    <td>Use tags for writting and use css</td>
+                 </tr>            
+                    <tr>
+                    <td>7</td>
+                    <td>27/07/2021</td>
+                    <td>priya.html</td>
+                    <td>Shadow box and it's styling</td>
+                    <td>No</td>
                     <td></td>
-                 </tr>                        
+                 </tr>            
               </tbody>
         </table>
     </div>
