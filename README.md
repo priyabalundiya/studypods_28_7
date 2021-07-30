@@ -102,10 +102,18 @@
                     <tr>
                     <td>9</td>
                     <td>29/07/2021</td>
-                    <td>js_28.html</td>
+                    <td>js_29.html</td>
                     <td>Operators,control statements,switch case,loops</td>
                     <td>print more conditionalstatements</td>
                     <td>use else if </td>
+                 </tr>            
+                   <tr>
+                    <td>10</td>
+                    <td>30/07/2021</td>
+                    <td>js_30.html</td>
+                    <td><Functions/td>
+                    <td>rules for declare a function name.</td>
+                    <td> </td>
                  </tr>            
               </tbody>
         </table>
