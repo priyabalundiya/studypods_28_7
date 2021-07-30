@@ -96,8 +96,16 @@
                     <td>28/07/2021</td>
                     <td>first_28.html</td>
                     <td>Why i study javascript ,applications,print Hello World</td>
-                    <td>to know much more</td>
-                    <td></td>
+                    <td>To print some basic programs</td>
+                    <td>use the loops ,control statements </td>
+                 </tr>            
+                    <tr>
+                    <td>9</td>
+                    <td>29/07/2021</td>
+                    <td>js_28.html</td>
+                    <td>Operators,control statements,switch case,loops</td>
+                    <td>print more conditionalstatements</td>
+                    <td>use else if </td>
                  </tr>            
               </tbody>
         </table>
