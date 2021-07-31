@@ -113,6 +113,14 @@
                     <td>js_30.html</td>
                     <td><Functions/td>
                     <td>rules for declare a function name.</td>
+                    <td> use function() ,and during calling pass parameters and function can be assign in other.</td>
+                 </tr>            
+                        <tr>
+                    <td>11</td>
+                    <td>31/07/2021</td>
+                    <td>js_31.html</td>
+                    <td><Array/td>
+                    <td>Objects</td>
                     <td> </td>
                  </tr>            
               </tbody>
