@@ -130,6 +130,14 @@
                     <td><photo embed/td>
                     <td>to adjust the text with respect to photo</td>
                     <td> </td>
+                 </tr>        
+                     <tr>
+                    <td>13</td>
+                    <td>2/08/2021</td>
+                    <td>1_8.html</td>
+                    <td>Styling</td>
+                    <td>Use relative and text align</td>
+                    <td>to attach multiple photos so that it will be side by side. </td>
                  </tr>           
               </tbody>
         </table>
