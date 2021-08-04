@@ -141,6 +141,14 @@
                  </tr>           
                      <tr>
                     <td>14</td>
+                    <td>3/08/2021</td>
+                    <td>1_8.html</td>
+                    <td>css</td>
+                    <td>to make it attractive</td>
+                    <td>use multiple boxes using flexbox </td>
+                 </tr>           
+                     <tr>
+                    <td>15</td>
                     <td>4/08/2021</td>
                     <td>04_08.zip</td>
                     <td>Styling page</td>
