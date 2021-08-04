@@ -111,7 +111,7 @@
                     <td>10</td>
                     <td>30/07/2021</td>
                     <td>js_30.html</td>
-                    <td><Functions</td>
+                    <td>Functions</td>
                     <td>rules for declare a function name.</td>
                     <td> use function() ,and during calling pass parameters and function can be assign in other.</td>
                  </tr>            
@@ -119,7 +119,7 @@
                     <td>11</td>
                     <td>31/07/2021</td>
                     <td>js_31.html</td>
-                    <td><Array</td>
+                    <td>Array</td>
                     <td>Objects</td>
                     <td>use functions in that and use loops for multitime  </td>
                  </tr>           
@@ -127,7 +127,7 @@
                     <td>12</td>
                     <td>1/08/2021</td>
                     <td>1_8.html</td>
-                    <td><photo embed</td>
+                    <td>photo embed</td>
                     <td>to adjust the text with respect to photo</td>
                     <td> </td>
                  </tr>        
