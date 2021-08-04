@@ -1,0 +1,178 @@
+.flex-container{
+background-color: indianred;
+margin:10px ;
+}
+.flex-child{
+    background-color: wheat;
+    margin:20px;
+    padding: 20px;
+    display: inline-block;
+}
+.flex-contain{
+    background-color: indianred;
+    margin:10px ;
+    }
+    .flex-child1{
+        background-color: wheat;
+        margin:20px;
+        padding: 20px;
+        display: inline-block;
+    }
+#parent{
+
+padding: 10px;
+width: 40%;
+height: 100%;
+margin: 100px;
+
+
+
+
+}
+#one{
+   width: 100px;
+   height: 100px;
+   background-color: green;
+   display: inline-block;
+   position: relative;
+   text-align: justify;
+
+}
+#two{
+    width: 100px;
+height: 100px;
+background-color: blue;
+display: inline-block;
+position: relative;
+top:50px;
+left: -50px;
+}
+#three{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+position: relative;
+top:100px;
+left: -100px;
+}
+
+#box1{
+
+    padding: 10px;
+    width: 40%;
+    height: 100%;
+    margin: 100px;
+    
+    
+    
+    
+    }
+    #four{
+       width: 100px;
+       height: 100px;
+       background-color: green;
+       display: inline-block;
+       position: relative;
+    }
+    #five{
+        width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: inline-block;
+    position: relative;
+    top:50px;
+    left: -50px;
+    }
+    #six{
+        width: 100px;
+        height: 100px;
+        background-color: red;
+        display: inline-block;
+    position: relative;
+    top:100px;
+    left: -100px;
+    }
+    
+    
+    
+        
+    #box2{
+
+        padding: 10px;
+        width: 40%;
+        height: 100%;
+        margin: 100px;
+        
+        
+        
+        
+        }
+        #seven{
+           width: 100px;
+           height: 100px;
+           background-color: green;
+           display: inline-block;
+           position: relative;
+        }
+        #eight{
+            width: 100px;
+        height: 100px;
+        background-color: blue;
+        display: inline-block;
+        position: relative;
+        top:50px;
+        left: -50px;
+        }
+        #nine{
+            width: 100px;
+            height: 100px;
+            background-color: red;
+            display: inline-block;
+        position: relative;
+        top:100px;
+        left: -100px;
+        }
+        #box3{
+
+            padding: 10px;
+            width: 40%;
+            height: 100%;
+            margin: 100px;
+            
+            
+            
+            
+            }
+            #ten{
+               width: 100px;
+               height: 100px;
+               background-color: green;
+               display: inline-block;
+               position: relative;
+            }
+            #eleven{
+                width: 100px;
+            height: 100px;
+            background-color: blue;
+            display: inline-block;
+            position: relative;
+            top:50px;
+            left: -50px;
+            }
+            #twelve{
+                width: 100px;
+                height: 100px;
+                background-color: red;
+                display: inline-block;
+            position: relative;
+            top:100px;
+            left: -100px;
+            }
+        
+        
+        
+            
+            
+
+    
