@@ -127,7 +127,7 @@
                     <td>12</td>
                     <td>1/08/2021</td>
                     <td>1_8.html</td>
-                    <td><photo embed/td>
+                    <td><photo embed</td>
                     <td>to adjust the text with respect to photo</td>
                     <td> </td>
                  </tr>        
