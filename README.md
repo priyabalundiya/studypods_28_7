@@ -151,8 +151,16 @@
                     <td>15</td>
                     <td>4/08/2021</td>
                     <td>04_08.zip</td>
-                    <td>Styling page</td>
+                    <td>design with a box and use of flexbox</td>
                     <td>how to align into a line</td>
+                    <td>not get the solution yet </td>
+                 </tr>           
+                   <tr>
+                    <td>16</td>
+                    <td>5/08/2021</td>
+                    <td>05_08.html</td>
+                    <td>colorful page</td>
+                    <td>how to write on a particular position.</td>
                     <td> </td>
                  </tr>           
               </tbody>
