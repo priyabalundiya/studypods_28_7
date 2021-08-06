@@ -41,13 +41,13 @@
                     <td>priya.html</td>
                     <td>Make use of general tags</td>
                     <td>To change the font.</td>
-                    <td>use font decoration</td>
+                    <td>Use font decoration</td>
                  </tr>
                     <tr>
                     <td>2</td>
                     <td>22/07/2021</td>
                     <td>priya.html</td>
-                    <td>use ancher of  tag</td>
+                    <td>Use ancher of  tag</td>
                     <td>To attach a photo</td>
                     <td> Use image tag</td>
                  </tr>            
@@ -56,7 +56,7 @@
                     <td>23/07/2021</td>
                     <td>priya.html</td>
                     <td>Make a registration form</td>
-                    <td> how to Style it</td>
+                    <td> How to Style it</td>
                     <td>Use css for styling</td>
                  </tr>            
                     <tr>
@@ -64,8 +64,8 @@
                     <td>24/07/2021</td>
                     <td>priya.html form</td>
                     <td>To style it</td>
-                    <td>how to proper styling</td>
-                    <td>use more css properties for styling</td>
+                    <td>How to proper styling</td>
+                    <td>Use more css properties for styling</td>
                  </tr>            
                     <tr>
                     <td>5</td>
@@ -79,8 +79,8 @@
                     <td>6</td>
                     <td>26/07/2021</td>
                     <td>priya.html</td>
-                    <td>create required sections,fonts</td>
-                    <td>create more items of a institute</td>
+                    <td>Create required sections,fonts</td>
+                    <td>Create more items of a institute</td>
                     <td>Use tags for writting and use css</td>
                  </tr>            
                     <tr>
@@ -97,23 +97,23 @@
                     <td>first_28.html</td>
                     <td>Why i study javascript ,applications,print Hello World</td>
                     <td>To print some basic programs</td>
-                    <td>use the loops ,control statements </td>
+                    <td>Use the loops ,control statements </td>
                  </tr>            
                     <tr>
                     <td>9</td>
                     <td>29/07/2021</td>
                     <td>js_29.html</td>
                     <td>Operators,control statements,switch case,loops</td>
-                    <td>print more conditionalstatements</td>
-                    <td>use else if </td>
+                    <td>Print more conditionalstatements</td>
+                    <td>Use else if </td>
                  </tr>            
                    <tr>
                     <td>10</td>
                     <td>30/07/2021</td>
                     <td>js_30.html</td>
                     <td>Functions</td>
-                    <td>rules for declare a function name.</td>
-                    <td> use function() ,and during calling pass parameters and function can be assign in other.</td>
+                    <td>Rules for declare a function name.</td>
+                    <td> Use function() ,and during calling pass parameters and function can be assign in other.</td>
                  </tr>            
                     <tr>
                     <td>11</td>
@@ -121,15 +121,15 @@
                     <td>js_31.html</td>
                     <td>Array</td>
                     <td>Objects</td>
-                    <td>use functions in that and use loops for multitime  </td>
+                    <td>Use functions in that and use loops for multitime  </td>
                  </tr>           
                     <tr>
                     <td>12</td>
                     <td>1/08/2021</td>
                     <td>1_8.html</td>
-                    <td>photo embed</td>
-                    <td>to adjust the text with respect to photo</td>
-                    <td> </td>
+                    <td>Photo embed</td>
+                    <td>To adjust the text with respect to photo</td>
+                    <td>Not found </td>
                  </tr>        
                      <tr>
                     <td>13</td>
@@ -137,30 +137,38 @@
                     <td>1_8.html</td>
                     <td>Styling</td>
                     <td>Use relative and text align</td>
-                    <td>to attach multiple photos so that it will be side by side. </td>
+                    <td>To attach multiple photos so that it will be side by side. </td>
                  </tr>           
                      <tr>
                     <td>14</td>
                     <td>3/08/2021</td>
                     <td>1_8.html</td>
-                    <td>css</td>
-                    <td>to make it attractive</td>
-                    <td>use multiple boxes using flexbox </td>
+                    <td>Css</td>
+                    <td>To make it attractive</td>
+                    <td>Use multiple boxes using flexbox </td>
                  </tr>           
                      <tr>
                     <td>15</td>
                     <td>4/08/2021</td>
                     <td>04_08.zip</td>
-                    <td>design with a box and use of flexbox</td>
-                    <td>how to align into a line</td>
-                    <td>not get the solution yet </td>
+                    <td>Design with a box and use of flexbox</td>
+                    <td>How to align into a line</td>
+                    <td>Not get the solution yet </td>
                  </tr>           
                    <tr>
                     <td>16</td>
                     <td>5/08/2021</td>
                     <td>05_08.html</td>
-                    <td>colorful page</td>
-                    <td>how to write on a particular position.</td>
+                    <td>Colorful page</td>
+                    <td>How to write on a particular position.</td>
+                    <td>Not found yet </td>
+                 </tr>           
+                    <tr>
+                    <td>17</td>
+                    <td>6/08/2021</td>
+                    <td>06_08.html</td>
+                    <td>A table of information of f2 groups students</td>
+                    <td>How to make it more good</td>
                     <td> </td>
                  </tr>           
               </tbody>
