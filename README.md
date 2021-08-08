@@ -170,7 +170,15 @@
                     <td>A table of information of f2 groups students</td>
                     <td>How to make it more good</td>
                     <td> </td>
-                 </tr>           
+                 </tr>       
+                    <tr>
+                    <td>20</td>
+                    <td>8/08/2021</td>
+                    <td>project_1_work.zip</td>
+                    <td>First big project in studypods.</td>
+                    <td>no</td>
+                    <td> </td>
+                 </tr>       
               </tbody>
         </table>
     </div>
