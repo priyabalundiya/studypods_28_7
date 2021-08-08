@@ -174,7 +174,7 @@
                     <tr>
                     <td>20</td>
                     <td>8/08/2021</td>
-                    <td>project_1_work.zip</td>
+                    <td>project_1_work/web d</td>
                     <td>First big project in studypods.</td>
                     <td>no</td>
                     <td> </td>
