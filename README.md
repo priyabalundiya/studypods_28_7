@@ -170,15 +170,24 @@
                     <td>A table of information of f2 groups students</td>
                     <td>How to make it more good</td>
                     <td> </td>
+                 </tr>   
+                                       <tr>
+                    <td>21</td>
+                    <td>7/08/2021</td>
+                    <td>07_08.zip</td>
+                    <td>Attach a link with a photo</td>
+                    <td>How to change the position of text according to the background image.</td>
+                    <td> </td>
                  </tr>       
                     <tr>
-                    <td>20</td>
+                    <td>22</td>
                     <td>8/08/2021</td>
-                    <td>project_1_work/web d</td>
+                    <td>First_project_studypods.zip</td>
                     <td>First big project in studypods.</td>
                     <td>no</td>
                     <td> </td>
                  </tr>       
+
               </tbody>
         </table>
     </div>
