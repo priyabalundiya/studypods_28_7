@@ -172,7 +172,7 @@
                     <td> </td>
                  </tr>   
                                        <tr>
-                    <td>21</td>
+                    <td>18</td>
                     <td>7/08/2021</td>
                     <td>07_08.zip</td>
                     <td>Attach a link with a photo</td>
@@ -180,7 +180,7 @@
                     <td> </td>
                  </tr>       
                     <tr>
-                    <td>22</td>
+                    <td>19</td>
                     <td>8/08/2021</td>
                     <td>First_project_studypods.zip</td>
                     <td>First big project in studypods.</td>
