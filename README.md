@@ -186,7 +186,23 @@
                     <td>First big project in studypods.</td>
                     <td>no</td>
                     <td> </td>
-                 </tr>       
+                 </tr>    
+                     <tr>
+                    <td>20</td>
+                    <td>9/08/2021</td>
+                    <td>09_08.zip</td>
+                    <td>Make a front page</td>
+                    <td>TO make navigation bar and some effects</td>
+                    <td>Use trantition </td>
+                 </tr>  
+                    <tr>
+                    <td>21</td>
+                    <td>10/08/2021</td>
+                    <td>09_08.zip</td>
+                    <td>Improvement of that page.</td>
+                    <td>TO make a logo</td>
+                    <td> </td>
+                 </tr>  
 
               </tbody>
         </table>
