@@ -32,7 +32,7 @@
                 <th width="350">Task</th>
                 <th width="350">Difficulty</th>
                 <th width="350">Solution</th>
-                <tr>
+                </tr>
             </thead>
                <tbody>
                  <tr>
