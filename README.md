@@ -89,7 +89,7 @@
                     <td>priya.html</td>
                     <td>Shadow box and it's styling</td>
                     <td>No</td>
-                    <td></td>
+                    <td>--</td>
                  </tr>            
                    <tr>
                     <td>8</td>
@@ -169,7 +169,7 @@
                     <td>06_08.html</td>
                     <td>A table of information of f2 groups students</td>
                     <td>How to make it more good</td>
-                    <td> </td>
+                    <td>Use more styling </td>
                  </tr>   
                                        <tr>
                     <td>18</td>
@@ -177,7 +177,7 @@
                     <td>07_08.zip</td>
                     <td>Attach a link with a photo</td>
                     <td>How to change the position of text according to the background image.</td>
-                    <td> </td>
+                    <td>No </td>
                  </tr>       
                     <tr>
                     <td>19</td>
@@ -185,7 +185,7 @@
                     <td>First_project_studypods.zip</td>
                     <td>First big project in studypods.</td>
                     <td>no</td>
-                    <td> </td>
+                    <td>-- </td>
                  </tr>    
                      <tr>
                     <td>20</td>
@@ -201,7 +201,23 @@
                     <td>09_08.zip</td>
                     <td>Improvement of that page.</td>
                     <td>TO make a logo</td>
-                    <td> </td>
+                    <td> No</td>
+                 </tr>  
+                       <tr>
+                    <td>22</td>
+                    <td>11/08/2021</td>
+                    <td>11_08.html</td>
+                    <td>Hover Effect</td>
+                    <td>Some effect not working</td>
+                    <td> No</td>
+                 </tr>  
+                       <tr>
+                    <td>22</td>
+                    <td>12/08/2021</td>
+                    <td>12_08.html</td>
+                    <td>Text animation</td>
+                    <td>In some code</td>
+                    <td> No</td>
                  </tr>  
 
               </tbody>
