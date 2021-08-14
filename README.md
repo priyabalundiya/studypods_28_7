@@ -227,6 +227,14 @@
                     <td>In moving this.</td>
                     <td> No</td>
                  </tr>  
+                      <tr>
+                    <td>24</td>
+                    <td>14/08/2021</td>
+                    <td>14_08.html</td>
+                    <td>To make a search bar</td>
+                    <td>In search icon</td>
+                    <td> No</td>
+                 </tr>  
 
               </tbody>
         </table>
