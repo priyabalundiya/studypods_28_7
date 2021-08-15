@@ -235,6 +235,14 @@
                     <td>In search icon</td>
                     <td> No</td>
                  </tr>  
+                     <tr>
+                    <td>25</td>
+                    <td>15/08/2021</td>
+                    <td>15_08.html</td>
+                    <td>Hover Effect</td>
+                    <td>In more styling the page.</td>
+                    <td> No</td>
+                 </tr>  
 
               </tbody>
         </table>
