@@ -244,11 +244,19 @@
                     <td> No</td>
                  </tr>  
                     <tr>
+                    <td>26</td>
+                    <td>16/08/2021</td>
+                    <td>16_17.zip</td>
+                    <td>A login page</td>
+                    <td>To make it good</td>
+                    <td> No</td>
+                 </tr>  
+                                       <tr>
                     <td>27</td>
                     <td>17/08/2021</td>
-                    <td>17_08.html</td>
-                    <td>A login page</td>
-                    <td>Icons are not showing</td>
+                    <td>16_17.zip</td>
+                    <td>Use of icons</td>
+                    <td>In icons inner parts</td>
                     <td> No</td>
                  </tr>  
 
