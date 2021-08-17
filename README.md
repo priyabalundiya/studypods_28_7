@@ -171,7 +171,7 @@
                     <td>How to make it more good</td>
                     <td>Use more styling </td>
                  </tr>   
-                                       <tr>
+                   <tr>
                     <td>18</td>
                     <td>7/08/2021</td>
                     <td>07_08.zip</td>
@@ -251,7 +251,7 @@
                     <td>To make it good</td>
                     <td> No</td>
                  </tr>  
-                                       <tr>
+                  <tr>
                     <td>27</td>
                     <td>17/08/2021</td>
                     <td>16_17.zip</td>
