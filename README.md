@@ -243,6 +243,14 @@
                     <td>In more styling the page.</td>
                     <td> No</td>
                  </tr>  
+                    <tr>
+                    <td>27</td>
+                    <td>17/08/2021</td>
+                    <td>17_08.html</td>
+                    <td>A login page</td>
+                    <td>Icons are not showing</td>
+                    <td> No</td>
+                 </tr>  
 
               </tbody>
         </table>
