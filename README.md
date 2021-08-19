@@ -258,13 +258,22 @@
                     <td>Use of icons</td>
                     <td>In icons inner parts</td>
                     <td> For icons use a suitable link</td>
-                 </tr>  
+                 </tr>
+                   <tr>
                      <td>28</td>
                     <td>18/08/2021</td>
                     <td>16_17.zip</td>
                     <td>Problem solve</td>
                     <td>No</td>
                     <td>--</td>
+                 </tr>  
+                    <tr>
+                     <td>29</td>
+                    <td>19/08/2021</td>
+                    <td>19_08.html</td>
+                    <td>A styling page</td>
+                    <td>In use of webkit-text-stroke</td>
+                    <td>Not yet</td>
                  </tr>  
 
               </tbody>
