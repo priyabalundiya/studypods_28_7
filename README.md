@@ -254,7 +254,7 @@
                   <tr>
                     <td>27</td>
                     <td>17/08/2021</td>
-                    <td>16_17.zip</td>
+                    <td>priya.zip</td>
                     <td>Use of icons</td>
                     <td>In icons inner parts</td>
                     <td> For icons use a suitable link</td>
@@ -262,7 +262,7 @@
                    <tr>
                      <td>28</td>
                     <td>18/08/2021</td>
-                    <td>16_17.zip</td>
+                    <td>priya.zip</td>
                     <td>Problem solve</td>
                     <td>No</td>
                     <td>--</td>
