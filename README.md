@@ -20,7 +20,7 @@
                 </table>
             </td>
         </tr>
-    
+    </table>
     <div>
     <table border="5">
         <caption style="font-size: 30px;"><b>STUDYPOD2.0 DAILY REPORT</b> </caption>
