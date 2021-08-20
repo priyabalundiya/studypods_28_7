@@ -275,6 +275,14 @@
                     <td>In use of webkit-text-stroke</td>
                     <td>Not yet</td>
                  </tr>  
+                      <tr>
+                     <td>30</td>
+                    <td>20/08/2021</td>
+                    <td>20_08.html</td>
+                    <td>My skill strength</td>
+                    <td>No</td>
+                    <td>--</td>
+                 </tr>  
 
               </tbody>
         </table>
